@@ -63,7 +63,7 @@ a.external:hover::after {
  */
 div.header-container {
   height: 200px;
-  background-color: #607d8b;
+  background: #607d8b url(https://botblock.org/assets/geometry/geometry_transparent.png);
   margin-bottom: 70px;
 }
 
